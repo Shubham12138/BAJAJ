@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+.container {
+  margin: 20px;
+}
+
+textarea {
+  width: 300px;
+  height: 100px;
+}
+
+.error {
+  color: red;
+}
+
+.dropdown {
+  margin-top: 20px;
+}
